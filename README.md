@@ -74,8 +74,5 @@ Summarizes major findings, insights, and recommendations derived from the analys
 
 - `AI-Adoption-Student-Productivity-Analysis.pbix`
 - `/images` — Dashboard screenshots
-- Project documentation
+- `README.md` — Project documentation
 
-## Dashboard Preview
-
-Dashboard screenshots are available in the `/images` folder.
