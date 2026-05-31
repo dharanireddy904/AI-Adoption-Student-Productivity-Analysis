@@ -34,6 +34,20 @@ Examines trust levels, key concerns regarding AI, and student perceptions of AIâ
 ### 4. Executive Summary
 Summarizes major findings, insights, and recommendations derived from the analysis.
 
+## Dashboard Screenshots
+
+### AI Adoption Overview
+![AI Adoption Overview](https://github.com/dharanireddy904/AI-Adoption-Student-Productivity-Analysis/blob/main/images/01-ai-adoption-overview.png?raw=true)
+
+### Productivity & User Behaviour
+![Productivity & User Behaviour](https://github.com/dharanireddy904/AI-Adoption-Student-Productivity-Analysis/blob/main/images/02-productivity-user-behaviour.png?raw=true)
+
+### Trust & Future Outlook
+![Trust & Future Outlook](https://github.com/dharanireddy904/AI-Adoption-Student-Productivity-Analysis/blob/main/images/03-trust-future-outlook.png?raw=true)
+
+### Executive Summary
+![Executive Summary](https://github.com/dharanireddy904/AI-Adoption-Student-Productivity-Analysis/blob/main/images/04-executive-summary.png?raw=true)
+
 ## Key Insights
 
 - ChatGPT was the most widely used AI platform (~58% of usage).
