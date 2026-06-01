@@ -72,7 +72,7 @@ Summarizes major findings, insights, and recommendations derived from the analys
 
 ## Repository Contents
 
-- `AI-Adoption-Student-Productivity-Analysis.pbix`
+- `AI Adoption.pbix`
 - `/images` — Dashboard screenshots
 - `README.md` — Project documentation
 
